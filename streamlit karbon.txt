@@ -1,0 +1,4 @@
+streamlit
+pandas
+openpyxl   # kalau ingin ekspor Excel
+matplotlib # kalau ingin grafik custom
